@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Mea+Culpa&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Story+Script&display=swap');
+
+body {
+    background: linear-gradient(135deg, #000000, #0000ff, #ffffff);
+}
+
+h1 {
+    color: whitesmoke;
+    font-size:60px;
+    font-weight: lighter;
+    font-family: Story Script, sans-serif;
+    font-style: italic;
+    text-shadow: 5px 5px 10px #FFFFFF;
+    
+}
+
+h2 {
+    color:aliceblue;
+    font-size: 40px;
+    font-weight: lighter;
+    font-family: Story Script, sans-serif;
+    
+}
+
+p {
+    color:azure; /* cor do texto */
+    font-size: 25px; /* tamanho do texto */
+    font-weight: lighter; /* espessura da fonte */
+    font-family: Story Script, sans-serif; /* fonte do texto */
+    line-height: 30px; /* espaçamento entre linhas */
+    letter-spacing: 1px; /* espaçamento entre letras */
+    word-spacing: 5px; /* espaçamento entre palavras */
+    text-align: justify; /* alinhamento do texto */
+    text-transform: capitalize; /* primeira maiuscula/minuscula/tudo maiusculo e etc */
+    text-decoration: underline; /* linha em baixo/ em cima */
+    
+}

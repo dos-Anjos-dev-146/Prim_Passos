@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    padding: 20px;
+    border: 10px solid #ff0000;
+
+/* box-sizing como border-box limita
+a Box dentro da Width (largura)
+e height (altura) ex 200px mesmo
+adicionando borda ou padding */
+
+
+}

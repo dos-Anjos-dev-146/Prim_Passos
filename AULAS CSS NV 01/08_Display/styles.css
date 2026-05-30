@@ -1,0 +1,43 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: #ff1395;
+    display: inline-block;
+    margin: 15px;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background: #13ff95;
+    display: inline-block;
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background: #1395ff;
+    display: block;
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    background: #F1395F;
+    display: inline-block;
+}
+
+.box5 {
+    width: 100px;
+    height: 100px;
+    background: #1F39F5;
+    display: inline-block;
+}
+
+/* BLOCK VEM COMO PADRAO = O ELEMNTO TOMA A LINHA TODA PRA ELE.
+   INLINE = OS ELEMENTOS FICAM EM LINHA, PORÉM NÃO PODEM SER
+   CONFIGURADOS (WIDTH / HEIGHT E ETC)
+   INLINE-BLOCK = FICAM EM LINHA E PODEM SER CONFIGURADOS
+
+   OBS.: VC PODE DAR MAIS DE 1 NOME A UMA CLASSE, SÓ DAR ESPAÇO 
+   E ESCREVER O PRÓXIMO NOME.

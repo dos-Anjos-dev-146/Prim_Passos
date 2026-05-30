@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color:#D7DCE6;
+}
+
+#nome {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+#descrição {
+  font-family: Verdana, Tahoma, sans-serif;
+  margin: 0;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+#sobre {  
+  font-family: Verdana, Tahoma, sans-serif;
+  background: white;
+  margin: 0px;
+  padding: 0px;
+  border-radius: 5px;
+}
+
+#busca {
+  font-family: Verdana, Tahoma, sans-serif;
+  background: white;
+  margin: 20px;
+  padding: 0px;
+  border-radius: 5px;
+}
+
+#hab {
+  font-family: Verdana, Tahoma, sans-serif;
+  background: white;
+  margin: 0px;
+  padding: 0px;
+  border-radius: 5px;
+}
+
+.lista {
+  font-family: Verdana, Tahoma, sans-serif;
+  background: white;
+  margin: 0px;
+  padding: 0px;
+  border-radius: 5px;
+}
+
+#cont {
+  font-family: Verdana, Tahoma, sans-serif;
+  background: white;
+  margin: 0px;
+  padding: 0px;
+  border-radius: 5px;
+}
+
+#email {
+  font-family: Verdana, Tahoma, sans-serif;
+  background: white;
+  margin: 20px;
+  padding: 0px;
+  border-radius: 5px;
+}
+section {
+  background: white;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 25px;
+}
+

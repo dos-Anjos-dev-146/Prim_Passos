@@ -1,0 +1,53 @@
+.corpo {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+/* PX (fixo) */
+.px {
+    width: 150px;
+    height: 150px;
+    background: red;
+}
+
+/* % (relativo ao container) */
+.percent {
+    width: 20%;
+    height: 150px;
+    background: green;
+}
+
+/* VW (largura da tela) 1vw é 1% da largura da janela do navegador */
+.vw {
+    width: 20vw;
+    height: 150px;
+    background: blue;
+}
+
+/* VH (altura da tela) 1vw é 1% da largura da janela do navegador */
+.vh {
+    width: 150px;
+    height: 20vh;
+    background: yellow;
+    color: black;
+}
+/* em unidade de medida referente ao pai */
+/* rem unidade de medida reverente a raiz */
+/* width: largura / height: altura */

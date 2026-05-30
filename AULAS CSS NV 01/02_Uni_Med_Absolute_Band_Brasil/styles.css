@@ -1,0 +1,46 @@
+.corpo {
+    width: 0px;
+    height: 0px;
+    background-color:#000000;
+}
+.DEUS {
+    width: 25vw;
+    height: 50vh;
+    background-color:#FFFFFF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.vo {
+    width: 60%;
+    height: 60%;
+    background-color: #009C2E;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.pai {
+    width: 80%;
+    height: 80%;
+    background-color: #FFE001;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(45deg);
+    
+}
+
+.filho {
+    width: 80%;
+    height: 80%;
+    background-color: #002279;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 100%;
+}
+/* width: largura / height: altura */

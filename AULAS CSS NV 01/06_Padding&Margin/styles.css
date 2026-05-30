@@ -1,0 +1,22 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: #ff1493;
+    padding: 50px;
+
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+
+    padding: 40px 30px 20px 10px;
+
+    /* 
+       margin = margem da div
+       paddin = espaçamento int da div
+       os dois metodos funcionam para
+       as duas situaçãos exatamente
+       na ordem acima. ↑ → ↓ ← 
+    */
+
+}
